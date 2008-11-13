@@ -1,12 +1,12 @@
 %define		_lang		ku
 Summary:	Kurdish resources for Iceweasel
 Name:		iceweasel-lang-%{_lang}
-Version:	3.0.3
+Version:	3.0.4
 Release:	1
 License:	GPL
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	93ae7e984e1afed5acf8466148a97e70
+# Source0-md5:	2f1b5c0b30567cd40ad8cd1ec0183ad5
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
 BuildRequires:	zip
