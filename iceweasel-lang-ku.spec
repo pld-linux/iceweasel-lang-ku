@@ -2,12 +2,12 @@
 Summary:	Kurdish resources for Iceweasel
 Summary(pl.UTF-8):	Kurdyjskie pliki językowe dla Iceweasela
 Name:		iceweasel-lang-%{_lang}
-Version:	3.5.1
+Version:	3.5.2
 Release:	2
 License:	MPL 1.1 or GPL v2+ or LGPL v2.1+
 Group:		I18n
 Source0:	http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/%{version}/linux-i686/xpi/%{_lang}.xpi
-# Source0-md5:	31075e4d5af13ebe639abb5c4b4fddcb
+# Source0-md5:	1deb98cd6f314742e7dce8dc1401d09d
 BuildRequires:	sed >= 4.0
 BuildRequires:	unzip
 BuildRequires:	zip
